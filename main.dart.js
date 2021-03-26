@@ -37672,7 +37672,7 @@ a3:function(){return new F.A8(new P.cL("en",null),S.aqd(),C.k)}}
 F.A8.prototype={
 rn:function(a){this.ai(new F.af_(this,a))},
 E:function(a,b){var s=null,r=H.a([new T.tN(new Y.t5(S.aqd(),s,F.aEd(),t.tI),s,s,s,t.m7)],t.JD),q=X.alt(C.h,s,s,"ArcadeClassic",C.l),p=this.d,o=H.a([new P.cL("en",s),new P.cL("ar",s)],t._p),n=H.a([C.ww,C.wB,C.wF,C.wy],t.UU),m=t.SW
-return Y.ay1(new B.yE(H.a([B.nI("/",s,new S.fG(new Q.v3(s),s)),B.nI("/store",H.a([B.nI("/products",s,new S.fG(new V.pU(s),s))],m),new S.fG(new V.y1(s),s)),B.nI("/aboutUs",s,new S.fG(new R.tj(s),s)),B.nI("/aboutUs/el3ab",s,new S.fG(new X.ur(s),s)),B.nI("/aboutUs/erza3",s,new S.fG(new D.uC(s),s)),B.nI("/aboutUs/beta3Aflam",s,new S.fG(new S.tB(s),s)),B.nI("/store/:id",s,new S.fG(new V.pU(s),s)),B.azP(":_(.*)","/")],m),"Arcade",q,p,n,new F.aeZ(),o,!1,s),r)}}
+return Y.ay1(new B.yE(H.a([B.nI("/",s,new S.fG(new Q.v3(s),s)),B.nI("/store",H.a([B.nI("/products",s,new S.fG(new V.pU(s),s))],m),new S.fG(new V.y1(s),s)),B.nI("/aboutUs",s,new S.fG(new R.tj(s),s)),B.nI("/aboutUs/el3ab",s,new S.fG(new X.ur(s),s)),B.nI("/aboutUs/erza3",s,new S.fG(new D.uC(s),s)),B.nI("/aboutUs/beta3Aflam",s,new S.fG(new S.tB(s),s)),B.nI("/store/:id",s,new S.fG(new V.pU(s),s)),B.azP(":_(.*)","/store")],m),"Arcade",q,p,n,new F.aeZ(),o,!1,s),r)}}
 F.af_.prototype={
 $0:function(){this.a.d=this.b},
 $S:2}
