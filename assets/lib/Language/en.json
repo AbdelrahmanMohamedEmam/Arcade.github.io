@@ -23,5 +23,6 @@
     "please_enter_your_name":"Please enter your name",
     "please_enter_your_address":"Please enter your address",
     "please_enter_a_valid_email_address":"Please enter a valid email address",
-    "please_enter_a_valid_mobile_number":"Please enter a valid mobile number"
+    "please_enter_a_valid_mobile_number":"Please enter a valid mobile number",
+    "the_requested_page_is_not_available":"The requested page is not available."
 }
